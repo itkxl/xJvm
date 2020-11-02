@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="xJvm:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/xJvm_jar</output-path>
+    <root id="archive" name="xJvm.jar">
+      <element id="module-output" name="xJvm" />
+    </root>
+  </artifact>
+</component>
